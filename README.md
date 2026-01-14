@@ -4,15 +4,19 @@
 
 ## 📋 Description
 
-Site one-page moderne et engageant pour **Étoile du Matin Recycle**, entreprise spécialisée dans la revente d'objets recyclés et reconditionnés (drones testés, vêtements, jouets, bons plans).
+Site one-page moderne et engageant pour **Étoile du Matin Recycle**, entreprise spécialisée dans la revente d'objets recyclés et reconditionnés (drones testés, habits, jouets, bons plans).
+
+⚡️ Une nouvelle vie pour vos trouvailles ♻️  
+🌟 Des prix accessibles pour tous
 
 ## ✨ Caractéristiques
 
 ### Design
-- 🎨 **Style éco-moderne** avec palette de couleurs vert sauge, blanc et beige
+- 🎨 **Style moderne** avec palette bleu marine et or (basée sur le logo Instagram)
 - 📱 **Responsive mobile-first** - optimisé pour Instagram
 - 🌊 **Animations fluides** au scroll et au hover
 - ⚡ **Performance optimisée** pour un chargement rapide
+- 🎯 **Logo badge** circulaire avec étoile dorée fidèle à l'identité Instagram
 
 ### Sections
 1. **Hero** - Message principal avec CTA
@@ -70,13 +74,15 @@ edm-main/
 └── README.md           # Documentation
 ```
 
-## 🎨 Palette de Couleurs
+## 🎨 Palette de Couleurs (Branding Instagram)
 
 | Couleur | Hex | Usage |
 |---------|-----|-------|
-| Vert principal | `#7FA68E` | Boutons, accents |
-| Vert foncé | `#6B8F7A` | Hover états |
-| Vert clair | `#A8C5B3` | Backgrounds subtils |
+| Bleu marine | `#1e3a5f` | Couleur principale, logo, boutons |
+| Bleu foncé | `#152945` | Hover états |
+| Bleu clair | `#2d5080` | Accents |
+| Bleu secondaire | `#4a90e2` | Sections alternées |
+| Or/Jaune | `#ffd700` | Étoile du logo, accents |
 | Blanc | `#FFFFFF` | Backgrounds principaux |
 | Beige | `#F5F3EF` | Sections alternées |
 | Gris clair | `#E8E8E8` | Bordures |
